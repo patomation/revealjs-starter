@@ -49,7 +49,7 @@ module.exports = {
   plugins: [
     new HtmlWebPackPlugin({
       hash: true,
-      title: 'Vanilla Starter',
+      title: 'Reveal.js Starter',
       template: './public/index.html',
       filename: './index.html'
     })
